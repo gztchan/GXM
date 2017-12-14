@@ -1,0 +1,25 @@
+{
+  "name": "gxm",
+  "version": "0.0.1",
+  "description": "Better Xiami client on macOS.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "^0.17.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gztchan/GXM.git"
+  },
+  "author": "Tony Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gztchan/GXM/issues"
+  },
+  "homepage": "https://github.com/gztchan/GXM#readme"
+}
